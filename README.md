@@ -1,3 +1,3 @@
-- Olá me chamo Kaique, (@KaiqueSP96).
+- Olá me chamo Kaique.
 - Atualmente estudo ADS pela Estácio, e também faço cursos de Desenvolvimento WEB (Front-End).
 - Possuo conhecimento em HTML, CSS, JavaScript, Reactjs, e Vue.
