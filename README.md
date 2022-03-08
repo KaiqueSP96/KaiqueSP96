@@ -1,4 +1,6 @@
-### - Hi, i am Kaique Santos :brazil: (São Paulo), 25 years.
+### - Hi, i am Kaique Santos, 25 years.
+
+### - From Brazil, São Paulo.
 
 ### - Front End Developer (JR).
 
